@@ -1,0 +1,29 @@
+name: "personal-page-radix"
+title: "Vinicius Macuch Silva"
+description: |
+  Vinicius Macuch Silva
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      menu:
+        - text: "Conference papers"
+          href: conference-papers.html
+        - text: "---"
+        - text: "Journal papers"
+          href: journal-papers.html
+    - text: "Presentations"
+      menu:
+        - text: "Conference posters"
+          href: conference-posters.html
+        - text: "---"
+        - text: "Peer-reviewed talks"
+          href: peer-revieed-talks.html
+  right:
+    - icon: fab fa-github
+      href: https://github.com/vinimacuch
+    - icon: fab fa-twitter
+      href: https://twitter.com/MacuchSilvaVini
+output: radix::radix_article
