@@ -5,8 +5,6 @@ description: |
 output_dir: "."
 navbar:
   left:
-    - text: "Home"
-      href: index.html
     - text: "Publications"
       menu:
         - text: "Conference papers"
