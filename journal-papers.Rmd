@@ -1,0 +1,19 @@
+---
+title: "Journal papers"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+
+* **Macuch Silva, V.**,  Holler, J., Özyürek, A., & Roberts, S. (2019). _Multimodality and the origin of a novel communication system in face-to-face interaction._ Manuscript submitted for publication.

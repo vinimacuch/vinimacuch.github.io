@@ -18,7 +18,7 @@ navbar:
           href: conference-posters.html
         - text: "---"
         - text: "Peer-reviewed talks"
-          href: peer-revieed-talks.html
+          href: peer-reviewed-talks.html
   right:
     - icon: fab fa-github
       href: https://github.com/vinimacuch
