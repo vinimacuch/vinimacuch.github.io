@@ -24,6 +24,10 @@ navbar:
       href: https://github.com/vinimacuch
     - icon: fab fa-twitter
       href: https://twitter.com/MacuchSilvaVini
+    - image: images/ORCID-iD_icon-bw-24x24.png
+      href: https://orcid.org/0000-0002-3370-4157
+    - image: images/OSF.png
+      href: https://osf.io/7wd6e/
 output: 
     radix::radix_article:
         css: styles.css

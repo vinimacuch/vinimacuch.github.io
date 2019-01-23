@@ -13,7 +13,13 @@ body {
 h1 {
   text-align: center
 }
+
+.aligncenter {
+    text-align: center;
+}
 </style>
+
+<p class="aligncenter"><img src="images/profile.jpeg" alt="Profile picture" align="middle" style="width:240px;height:180px;border:1px solid black;"></p>
 
 I'm a doctoral researcher at the Institute of Cognitive Science, Osnabrück University, where I work on linguistic pragmatics drawing on psycholinguistic experimentation and cognitive modeling. In my PhD, I'm investigating the extent to which pragmatic language processing and production might be construed as a probabilistic and incremental process, i.e., as a form of Bayesian inferencing.
 
