@@ -20,10 +20,12 @@ navbar:
         - text: "Peer-reviewed talks"
           href: peer-reviewed-talks.html
   right:
-    - icon: fab fa-github
-      href: https://github.com/vinimacuch
+    - icon: fas fa-envelope
+      href: mailto:vini.macuch@gmail.com
     - icon: fab fa-twitter
       href: https://twitter.com/MacuchSilvaVini
+    - icon: fab fa-github
+      href: https://github.com/vinimacuch
     - image: images/ORCID-iD_icon-bw-24x24.png
       href: https://orcid.org/0000-0002-3370-4157
     - image: images/OSF.png
