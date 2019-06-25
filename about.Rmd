@@ -8,14 +8,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <style>
 body {
-  text-align: justify}
+  text-align: justify
+}
 
 h1 {
-  text-align: center
+  text-align: center;
 }
 
 .aligncenter {
-    text-align: center;
+    text-align: center
 }
 </style>
 

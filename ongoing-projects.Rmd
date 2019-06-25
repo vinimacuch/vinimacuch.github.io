@@ -1,0 +1,24 @@
+---
+title: "Ongoing projects"
+---
+
+```{r setup, include=FALSE}
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+Pragmatic prediction in the processing of referring expressions containing scalar quantifiers.
+
+* Duration: 2017 -
+
+
+Pragmatic prediction in the processing of referring expressions containing interpersonal discourse markers.
+
+* Duration: 2018 -
