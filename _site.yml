@@ -6,26 +6,11 @@ output_dir: "."
 navbar:
   left:
     - text: "Publications"
-      menu:
-        - text: "Conference papers"
-          href: conference-papers.html
-        - text: "---"
-        - text: "Journal papers"
-          href: journal-papers.html
+      href: publications.html
     - text: "Presentations"
-      menu:
-        - text: "Conference posters"
-          href: conference-posters.html
-        - text: "---"
-        - text: "Peer-reviewed talks"
-          href: peer-reviewed-talks.html
+      href: presentations.html
     - text: "Projects"
-      menu:
-        - text: "Finished"
-          href: finished-projects.html
-        - text: "---"
-        - text: "Ongoing"
-          href: ongoing-projects.html
+      href: projects.html
   right:
     - icon: fas fa-envelope
       href: mailto:vini.macuch@gmail.com

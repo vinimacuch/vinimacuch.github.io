@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+**Ongoing**
+
+* [2018] Pragmatic prediction in the processing of referring expressions containing interpersonal discourse markers.
+
+
+* [2017] Pragmatic prediction in the processing of referring expressions containing scalar quantifiers.
+
+
+**Finished** 
+
+* [2015-2016] Multimodality and the emergence of a new communication system in face-to-face interaction.
+
+
+* [2015] Repair and the emergence of systematic linguistic structure.
