@@ -1,0 +1,24 @@
+---
+title: "Interaction and the emergence of systematic linguistic structure"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+
+
+Principal collaborator: [Sean G. Roberts](https://orcid.org/0000-0001-5990-9161)
+
+
+In this project, we showed that iterated learning, one of the most widely used experimental paradigms in language evolution research, can be used to explore how conversational interaction provides a framework that supports the evolution of structure in language. Indeed, we showed proof of concept that iterated learning experiments provide a pressure for use through communication games, these games providing additional structures which are essential for conversation. Our proposal was that by manipulating parts of the communication game it should be possible to investigate their impact on the evolution of linguistic structure. In a pilot experiment, we showed that the introduction of noise in a typical communication game provides a pressure for communicative signals to be maximally distinct, creating a bias against simple compositional languages. In our experiment, however, participants were able to initiate a simple repair sequence (the matcher could ask the director to produce another signal before
+guessing). This counteracted the pressure from noise, allowing the emergence of compositionality. In this sense, we showed that repair is a crucial feature in the emergence of structure in language. We also found that participants used repair to request clarification, thus highlighting the compositional structure of the signals and helping to converge on a compositional language.

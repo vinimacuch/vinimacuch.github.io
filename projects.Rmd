@@ -28,4 +28,4 @@ h1 {
 * [2015-2016] Multimodality and the emergence of a new communication system in face-to-face interaction.
 
 
-* [2015] Repair and the emergence of systematic linguistic structure.
+* [2015] Interaction and the emergence of systematic linguistic structure.

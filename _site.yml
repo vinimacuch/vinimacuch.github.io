@@ -12,8 +12,6 @@ navbar:
     - text: "Projects"
       href: projects.html
   right:
-    - icon: fas fa-envelope
-      href: mailto:vini.macuch@gmail.com
     - icon: fab fa-twitter
       href: https://twitter.com/MacuchSilvaVini
     - icon: fab fa-github
