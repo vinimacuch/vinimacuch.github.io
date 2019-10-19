@@ -28,9 +28,9 @@ h1 {
 
 **Conference posters**
 
-* **Macuch Silva, V.**, Franke, M., & Degen, J. (2018, June). _Reading quantified expressions in context: Does pragmatic surprisal or strategic attention allocation predict self-paced reading times?_ Poster presented at the XPrag.de Annual Meeting, Graz. [[**poster**]](file:///C:/Users/vinim/Documents/MEGA/Documents/CV-and-applications/personal-page-radix/vinimacuch.github.io/Poster-XPrag2018.pdf)
+* **Macuch Silva, V.**, Franke, M., & Degen, J. (2018, June). _Reading quantified expressions in context: Does pragmatic surprisal or strategic attention allocation predict self-paced reading times?_ Poster presented at the XPrag.de Annual Meeting, Graz. [[**poster**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/Poster-XPrag2018.pdf)
 
-* Franke, M., Degen, J., & **Macuch Silva, V**. (2017, September). _Probabilistic modeling of pragmatic processing and utterance production_. Poster presented at the XPrag.de Annual Meeting, Cologne. [[**poster**]](file://C:/Users/vinim/Documents/MEGA/Documents/CV-and-applications/personal-page-radix/vinimacuch.github.io/Poster-XPrag2017.pdf)
+* Franke, M., Degen, J., & **Macuch Silva, V**. (2017, September). _Probabilistic modeling of pragmatic processing and utterance production_. Poster presented at the XPrag.de Annual Meeting, Cologne. [[**poster**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/Poster-XPrag2017.pdf)
 
 * **Macuch Silva, V.**, & Roberts, S. (2016, April). Language Adapts To Signal Disruption In Interaction. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Feher & T. Verhoef, _The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11)_. [[**abstract**](https://evolang.org/neworleans/pdf/EVOLANG_11_paper_20.pdf)]
 
