@@ -17,15 +17,14 @@ h1 {
 
 **Ongoing**
 
-* [2018] Pragmatic prediction in the processing of referring expressions containing interpersonal discourse markers.
-
+* [2018] Pragmatic prediction in the processing of referring expressions containing discourse particles.
 
 * [2017] Pragmatic prediction in the processing of referring expressions containing scalar quantifiers.
 
 
 **Finished** 
 
-* [2015-2016] Multimodality and the emergence of a new communication system in face-to-face interaction.
+* [2015-2016] Multimodality and the emergence of a new communication system in face-to-face interaction. [[**online repository**]](https://github.com/seannyD/multimodalCommunicationGame)
 
 
 * [2015] Interaction and the emergence of systematic linguistic structure.

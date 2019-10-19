@@ -16,10 +16,10 @@ h1 {
 }
 </style>
 
-<p class="aligncenter"><img src="images/profile.jpeg" alt="Profile picture" align="middle" style="width:265px;height:240px;border:1px solid black;"></p>
+<p class="aligncenter"><img src="images/profile.jpeg" alt="Profile picture" align="middle" style="width:235px;height:210px;border:1px solid black;"></p>
 
-I'm a doctoral researcher in the [Cognitive Modeling group  at the Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/research_groups/cognitive_modeling/home.html), Osnabrück University, where I work on linguistic pragmatics drawing on psycholinguistic experimentation and cognitive modeling. In my PhD, I'm investigating the extent to which pragmatic language processing and production might be construed as a probabilistic and incremental process, i.e. as a form of Bayesian inferencing.
+I'm a doctoral researcher in the [Cognitive Modeling group  at the Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/research_groups/cognitive_modeling/home.html), Osnabrück University, where I work on linguistic pragmatics drawing on experimental methods as well as cognitive modeling. In my PhD, I'm investigating the extent to which pragmatic language processing and production might be construed as probabilistic processes, i.e. as a form of Bayesian inferencing.
 
-I’m broadly interested in the interplay between language, cognition, and interaction. I’m particularly interested in issues related to pragmatic language use and dialogue/ spontaneous conversation, e.g. how do certain linguistic and contextual cues modulate discourse expectations and thus affect online language processing and intention recognition/ action formation and ascription, or e.g. how do interactional aspects of human communication such as repair and turn-taking affect the emergence and evolution of language.
+I’m broadly interested in the interplay between language, cognition, and interaction. I’m particularly interested in issues related to pragmatic language use and dialogue/ spontaneous conversation, e.g. how do certain linguistic and contextual cues modulate discourse expectations and in turn affect online language processing and intention recognition/ action formation and ascription, or e.g. how do interactional aspects of human communication such as repair and turn-taking affect the emergence and evolution of language.
 
-I also have an interest in [multi]modality and non-verbal communicative behavior, as well as in Bayesian modeling.
+I'm also interested in [multi]modality and non-verbal communicative behavior, as well as in data science and statistical modeling, particularly Bayesian modeling.
