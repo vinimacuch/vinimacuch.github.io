@@ -17,14 +17,18 @@ h1 {
 
 **Ongoing**
 
-* [2018] Pragmatic prediction in the processing of referring expressions containing discourse particles.
+* [2018] Pragmatic prediction in the processing of referring expressions containing discourse particles.  
+<p class="tab">with [Laine Stranahan](http://www.lainestranahan.com/), Mathias Stöber, [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</p>
 
-* [2017] Pragmatic prediction in the processing of referring expressions containing scalar quantifiers.
+* [2017] Pragmatic prediction in the processing of referring expressions containing scalar quantifiers.  
+<p class="tab3">with [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
 
 
 **Finished** 
 
-* [2015-2016] Multimodality and the emergence of a new communication system in face-to-face interaction. [[**online repository**]](https://github.com/seannyD/multimodalCommunicationGame)
+* [2015-2016] Multimodality and the emergence of a new communication system in face-to-face interaction. [[**online repository**]](https://github.com/seannyD/multimodalCommunicationGame)  
+<p class="tab2">with [Aslı Özyürek](https://www.mpi.nl/people/ozyurek-asli), [Judith Holler](https://www.mpi.nl/people/holler-judith), and [Séan G. Roberts](https://research-information.bristol.ac.uk/en/persons/sean-g-roberts(2399cd4d-b514-405d-986c-5d0d72d390f0).html)</p>
 
 
-* [2015] Interaction and the emergence of systematic linguistic structure.
+* [2015] Interaction and the emergence of systematic linguistic structure.   
+<p class="tab3">with [Séan G. Roberts](https://research-information.bristol.ac.uk/en/persons/sean-g-roberts(2399cd4d-b514-405d-986c-5d0d72d390f0).html)</p>
