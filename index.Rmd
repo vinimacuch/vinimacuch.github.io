@@ -22,4 +22,4 @@ I'm a doctoral researcher in the [Cognitive Modeling group at the Institute of C
 
 I’m broadly interested in the interplay between language, cognition, and interaction. I’m particularly interested in issues related to pragmatic language use and dialogue/ spontaneous conversation, e.g. how do certain linguistic and contextual cues modulate discourse expectations and in turn affect online language processing and intention recognition/ action formation and ascription, or e.g. how do interactional aspects of human communication such as repair and turn-taking affect the emergence and evolution of language.
 
-I'm also interested in [multi]modality and non-verbal communicative behavior, as well as in methodological and applied issues to do with behavioral experimentation, data analysis and statistical modeling.
+I'm also interested in [multi]modality and non-verbal communicative behavior, as well as in issues related to research design and methodology, data analysis, and statistical modeling.
