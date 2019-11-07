@@ -17,7 +17,7 @@ h1 {
 
 **Journal papers**
 
-* **Macuch Silva, V.**,  Holler, J., Özyürek, A., & Roberts, S. (forthcoming). Multimodality and the origin of a novel communication system in face-to-face interaction. _Royal Society Open Science_. [[**online repository**]](https://github.com/seannyD/multimodalCommunicationGame)
+* **Macuch Silva, V.**,  Holler, J., Özyürek, A., & Roberts, S. (forthcoming). Multimodality and the origin of a novel communication system in face-to-face interaction. _Royal Society Open Science_. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame)
 
 
 **Conference papers**
