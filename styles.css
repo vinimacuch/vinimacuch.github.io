@@ -34,18 +34,6 @@ h1 {
   font:size 40pt;
 }
 
-.tab {
-  text-indent: 120px;
-}
-
-.tab2 {
-  text-indent: 280px;
-}
-
-.tab3 {
-  text-indent: 520px;
-}
-
-.tab4 {
-  text-indent: 380px;
+.alignright {
+	float: right;
 }
