@@ -17,7 +17,7 @@ h1 {
 
 **Ongoing**
 
-* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Investigating the processing of different question types in contexts with epistemic biases.  
+* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Investigating the processing of question types in different bias contexts.  
 <p style="text-align:right">with [E Jamieson](https://ejamieson.com/)</p>
 
 * <span style="font-size:11pt;font-weight:bold;">[2019]</span> Prediction in the processing of metaphoric expressions containing modal stance adjectives.  
