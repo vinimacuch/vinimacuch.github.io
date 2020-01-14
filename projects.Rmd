@@ -21,7 +21,7 @@ h1 {
 <p style="text-align:right">with [E Jamieson](https://ejamieson.com/)</p>
 
 * <span style="font-size:11pt;font-weight:bold;">[2019]</span> Prediction in the processing of metaphoric expressions containing modal stance adjectives.  
-<p style="text-align:right">with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/)</p>
+<p style="text-align:right">with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) [[**OSF project**]](https://osf.io/5v9xf/)</p>
 
 * <span style="font-size:11pt;font-weight:bold;">[2019]</span> Strategic quantifier use in the production of referring expressions.  
 <p style="text-align:right">with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
