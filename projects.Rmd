@@ -17,11 +17,11 @@ h1 {
 
 **Ongoing**
 
-* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Investigating the processing of question types in different bias contexts.  
+* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Investigating the processing of question types in contexts with different prior beliefs. [[**OSF project**]](https://osf.io/7a2jk/) 
 <p style="text-align:right">with [E Jamieson](https://ejamieson.com/)</p>
 
-* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Prediction in the processing of metaphoric expressions containing modal stance adjectives.  
-<p style="text-align:right">with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) [[**OSF project**]](https://osf.io/5v9xf/)</p>
+* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Prediction in the processing of metaphoric expressions containing modal stance adjectives. [[**OSF project**]](https://osf.io/5v9xf/) 
+<p style="text-align:right">with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/)</p>
 
 * <span style="font-size:11pt;font-weight:bold;">[2019]</span> Strategic quantifier use in the production of referring expressions.  
 <p style="text-align:right">with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
@@ -35,9 +35,9 @@ h1 {
 
 **Finished** 
 
-* <span style="font-size:11pt;font-weight:bold;">[2015-2016]</span> Multimodality and the emergence of a new communication system in face-to-face interaction. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame)  
-<p style="text-align:right">with [Aslı Özyürek](https://www.mpi.nl/people/ozyurek-asli), [Judith Holler](https://www.mpi.nl/people/holler-judith), and [Séan G. Roberts](https://research-information.bristol.ac.uk/en/persons/sean-g-roberts(2399cd4d-b514-405d-986c-5d0d72d390f0).html)</p>
+* <span style="font-size:11pt;font-weight:bold;">[2015-2016]</span> Multimodality and the emergence of a new communication system in face-to-face interaction. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame) [[**paper**]](https://dx.doi.org/10.1098/rsos.182056)
+<p style="text-align:right">with [Aslı Özyürek](https://www.mpi.nl/people/ozyurek-asli), [Judith Holler](https://www.mpi.nl/people/holler-judith), and [Séan G. Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</p>
 
 
 * <span style="font-size:11pt;font-weight:bold;">[2015]</span> Interaction and the emergence of systematic linguistic structure.   
-<p style="text-align:right">with [Séan G. Roberts](https://research-information.bristol.ac.uk/en/persons/sean-g-roberts(2399cd4d-b514-405d-986c-5d0d72d390f0).html)</p>
+<p style="text-align:right">with [Séan G. Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</p>
