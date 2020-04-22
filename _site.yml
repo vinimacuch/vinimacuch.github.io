@@ -11,6 +11,8 @@ navbar:
       href: presentations.html
     - text: "Projects"
       href: projects.html
+    - text: "Teaching"
+      href: teaching.html
   right:
     - icon: fab fa-twitter
       href: https://twitter.com/MacuchSilvaVini

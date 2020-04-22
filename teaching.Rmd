@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+**Current courses**
+
+* Introduction to psycholinguistics: Investigating linguistic meaning [[**course page**]](https://vini-macuch-silva.github.io/intro-to-psycholinguistics/)
+
