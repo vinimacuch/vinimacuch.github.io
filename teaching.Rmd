@@ -19,3 +19,5 @@ h1 {
 
 * Introduction to psycholinguistics: Investigating linguistic meaning [[**course page**]](https://vini-macuch-silva.github.io/intro-to-psycholinguistics/)
 
+* Basics of data visualization for behavioral scientists [[**course page**]](https://vini-macuch-silva.github.io/basics-of-data-viz-for-behavioral-scientists/)
+

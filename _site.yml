@@ -18,9 +18,9 @@ navbar:
       href: https://twitter.com/MacuchSilvaVini
     - icon: fab fa-github
       href: https://github.com/vini-macuch-silva
-    - image: ORCID-iD_icon-bw-24x24.png
+    - image: images/ORCID-iD_icon-bw-24x24.png
       href: https://orcid.org/0000-0002-3370-4157
-    - image: OSF.png
+    - image: images/OSF.png
       href: https://osf.io/7wd6e/
 output: 
     radix::radix_article:
