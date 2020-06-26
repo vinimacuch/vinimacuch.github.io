@@ -1,9 +1,9 @@
 {
-    "path" : "~/MEGA/Documents/CV-and-applications/personal-page-radix/vini-macuch-silva.github.io",
-    "sortOrder" : [
+    "path": "~/MEGA/Documents/CV-and-applications/personal-page-radix/vini-macuch-silva.github.io",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

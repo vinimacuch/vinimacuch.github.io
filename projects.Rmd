@@ -23,7 +23,7 @@ h1 {
 * <span style="font-size:11pt;font-weight:bold;">[2019]</span> Prediction in the processing of metaphoric expressions containing modal stance adjectives. [[**OSF project**]](https://osf.io/5v9xf/) 
 <p style="text-align:right">with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/)</p>
 
-* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Strategic quantifier use in the production of referring expressions in non-cooperative contexts.  
+* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Strategic quantifier use in the production of referring expressions in manipulative contexts.  
 <p style="text-align:right">with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
 
 * <span style="font-size:11pt;font-weight:bold;">[2018]</span> Prediction in the processing of referring expressions containing interpersonal discourse particles.  
