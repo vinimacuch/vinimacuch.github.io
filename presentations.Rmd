@@ -33,7 +33,7 @@ Experimental Approaches to Modification, Tübingen.
 
 **Conference posters**
 
-* **Macuch Silva, V.**, Franke, M, & Cummins, C. (2020, July). _Modeling manipulative language use_. Poster presented at CogSci 2020 Virtual Conference. [[**poster**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-CogSci2020.pdf)
+* **Macuch Silva, V.**, Franke, M, & Cummins, C. (2020, July). _Modeling manipulative language use_. Poster presented at CogSci 2020 Virtual Conference. [[**poster**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-CogSci2020.pdf)[[**summary video**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-video-CogSci2020.mp4)
 
 * **Macuch Silva, V.**, & Franke, M. (2019, November). _Do the German discourse particles eigentlich and tatsächlich modulate online expectations about intended meaning?_ Poster presented at the XPrag.de Annual Meeting, Berlin. [[**poster**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-XPrag2019.pdf)
 
