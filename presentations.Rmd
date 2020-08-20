@@ -19,7 +19,7 @@ h1 {
 
 * Roberts, F., **Macuch Silva, V.**, & Rohde, H. (2020, July [postponed to July 2021]). _Non-actual 'actual': Expectations for upcoming figurative language arise from cues about message truth_. 5th Usage-Based Linguistics Conference, Tel Aviv. [[**abstract**](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/UBL-submission.pdf)]
 
-* **Macuch Silva, V.**, Roberts, F., & Rohde, H. (2020, June [postponed to January 2021]). _Do truth-endorsing adjectives act as cues to non-literality in the processing of modified metaphors? A psycholinguistic investigation of English 'actual', 'literal', and 'real_. TExMod2020: Theoretical and
+* **Macuch Silva, V.**, Roberts, F., & Rohde, H. (2020, June [postponed to January 2021]). _Do truth-endorsing adjectives act as cues to non-literality in the processing of modified metaphors? A psycholinguistic investigation of English 'actual', 'literal', and 'real'_. TExMod2020: Theoretical and
 Experimental Approaches to Modification, Tübingen. [[**abstract**](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/TExMod2020_paper_9.pdf)]
 
 * **Macuch Silva, V.**, & Franke, M. (2018, June). _Reading quantified expressions in context: Does pragmatic surprisal or strategic attention allocation predict self-paced reading times?_ The pragmatics of quantifiers: implicature and presupposition – experiment and theory, Berlin.
@@ -33,7 +33,7 @@ Experimental Approaches to Modification, Tübingen. [[**abstract**](https://gith
 
 **Conference posters**
 
-* **Macuch Silva, V.**, Franke, M, & Cummins, C. (2020, July). _Modeling manipulative language use_. Poster presented at CogSci 2020 Virtual Conference. [[**abstract**]](https://cognitivesciencesociety.org/cogsci20/papers/0382/0382.pdf)[[**poster**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-CogSci2020.pdf)[[**summary video**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-video-CogSci2020.mp4)
+* **Macuch Silva, V.**, Cummins, C., & Franke, M. (2020, July). _Modeling manipulative language use_. Poster presented at CogSci 2020 Virtual Conference. [[**abstract**]](https://cognitivesciencesociety.org/cogsci20/papers/0382/0382.pdf) [[**poster**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-CogSci2020.pdf) [[**summary video**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-video-CogSci2020.mp4)
 
 * **Macuch Silva, V.**, & Franke, M. (2019, November). _Do the German discourse particles eigentlich and tatsächlich modulate online expectations about intended meaning?_ Poster presented at the XPrag.de Annual Meeting, Berlin. [[**poster**]](https://github.com/vini-macuch-silva/vini-macuch-silva.github.io/blob/master/Poster-XPrag2019.pdf)
 
