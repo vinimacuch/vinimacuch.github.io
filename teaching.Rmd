@@ -17,7 +17,7 @@ h1 {
 
 **Current courses**
 
-* <span style="font-size:11pt;font-weight:bold;">[2020, Osnabrück University]</span> Basics of data visualization for behavioral scientists [[**course page**]](https://vini-macuch-silva.github.io/basics-of-data-viz-for-behavioral-scientists/) **Under construction**
+* <span style="font-size:11pt;font-weight:bold;">[2020, Osnabrück University]</span> Basics of data visualization for behavioral scientists [[**course page**]](https://vini-macuch-silva.github.io/basics-of-data-viz-for-behavioral-scientists/)
 
 **Past courses**
 
