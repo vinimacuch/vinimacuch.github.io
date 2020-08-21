@@ -32,7 +32,7 @@ h1 {
 
 **Finished** 
 
-* <span style="font-size:11pt;font-weight:bold;">[2017]</span> Prediction in the processing of referring expressions containing scalar quantifiers.  
+* <span style="font-size:11pt;font-weight:bold;">[2017-2019]</span> Prediction in the processing of referring expressions containing scalar quantifiers.  
 <p style="text-align:right">with [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
 
 * <span style="font-size:11pt;font-weight:bold;">[2015-2016]</span> Multimodality and the emergence of a new communication system in face-to-face interaction. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame) [[**paper**]](https://dx.doi.org/10.1098/rsos.182056)
