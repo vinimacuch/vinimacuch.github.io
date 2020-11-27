@@ -17,12 +17,12 @@ h1 {
 
 **Journal papers**
 
-* **Macuch Silva, V.**,  Holler, J., Özyürek, A., & Roberts, S. (2020). Multimodality and the origin of a novel communication system in face-to-face interaction. _R. Soc. open sci._. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame) [[**paper**]](https://dx.doi.org/10.1098/rsos.182056)
+* **Macuch Silva, V.**,  Holler, J., Özyürek, A., & Roberts, S. (2020). Multimodality and the origin of a novel communication system in face-to-face interaction. _R. Soc. open sci._. [<a href="https://github.com/seannyD/multimodalCommunicationGame" target="_blank"><b>code + coded data</b></a>] [<a href="https://dx.doi.org/10.1098/rsos.182056" target="_blank"><b>paper</b></a>]
 
 
 **Conference papers**
 
-* Micklos, A., **Macuch Silva, V.**, & Fay, N. (2018). The prevalence of repair in studies of language evolution. In Cuskley, C., Flaherty, M., Little, H., McCrohon, L., Ravignani, A. & Verhoef, T. (Eds.): _The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)_. [[**paper**](http://evolang.org/torun/proceedings/paperpdfs/Evolang_12_paper_136.pdf)]
+* Micklos, A., **Macuch Silva, V.**, & Fay, N. (2018). The prevalence of repair in studies of language evolution. In Cuskley, C., Flaherty, M., Little, H., McCrohon, L., Ravignani, A. & Verhoef, T. (Eds.): _The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)_. [<a href="http://evolang.org/torun/proceedings/paperpdfs/Evolang_12_paper_136.pdf" target="_blank"><b>paper</b></a>]
 
 
-* **Macuch Silva, V.**, & Roberts, S. (2016). Language Adapts To Signal Disruption In Interaction. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Feher & T. Verhoef, _The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11)_. [[**paper**](http://evolang.org/neworleans/workshops/pdf/MacuchSilva_Lati.pdf)]
+* **Macuch Silva, V.**, & Roberts, S. (2016). Language Adapts To Signal Disruption In Interaction. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Feher & T. Verhoef, _The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11)_. [<a href="http://evolang.org/neworleans/workshops/pdf/MacuchSilva_Lati.pdf" target="_blank"><b>paper</b></a>]
