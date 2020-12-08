@@ -17,27 +17,27 @@ h1 {
 
 **Ongoing**
 
-* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Investigating the processing of questions with biases. [[**OSF project**]](https://osf.io/7a2jk/) 
+* Investigating the processing of questions with biases in English. [[**OSF project**]](https://osf.io/7a2jk/) 
 <p style="text-align:right">with [E Jamieson](https://ejamieson.com/)</p>
 
-* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Prediction in the processing of metaphoric expressions containing modal stance adjectives. [[**OSF project**]](https://osf.io/5v9xf/) 
+* Prediction in the processing of English metaphoric expressions containing modal stance adjectives. [[**OSF project**]](https://osf.io/5v9xf/) 
 <p style="text-align:right">with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/)</p>
 
-* <span style="font-size:11pt;font-weight:bold;">[2019]</span> Strategic quantifier use in the production of referring expressions in manipulative contexts.  
+* Strategic quantifier use in the production of German referring expressions in manipulative contexts.  
 <p style="text-align:right">with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
 
-* <span style="font-size:11pt;font-weight:bold;">[2018]</span> Prediction in the processing of referring expressions containing interpersonal discourse particles.  
+* Prediction in the processing of German referring expressions containing interpersonal discourse particles.  
 <p style="text-align:right">with [Laine Stranahan](http://www.lainestranahan.com/), Mathias Stöber, [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</p>
 
 
 **Finished** 
 
-* <span style="font-size:11pt;font-weight:bold;">[2017-2019]</span> Prediction in the processing of referring expressions containing scalar quantifiers.  
+* Prediction in the processing of German referring expressions containing scalar quantifiers.  
 <p style="text-align:right">with [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
 
-* <span style="font-size:11pt;font-weight:bold;">[2015-2016]</span> Multimodality and the emergence of a new communication system in face-to-face interaction. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame) [[**paper**]](https://dx.doi.org/10.1098/rsos.182056)
+* Multimodality and the emergence of a new communication system in face-to-face interaction. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame) [[**paper**]](https://dx.doi.org/10.1098/rsos.182056)
 <p style="text-align:right">with [Aslı Özyürek](https://www.mpi.nl/people/ozyurek-asli), [Judith Holler](https://www.mpi.nl/people/holler-judith), and [Séan G. Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</p>
 
 
-* <span style="font-size:11pt;font-weight:bold;">[2015]</span> Interaction and the emergence of systematic linguistic structure.   
+* Interaction and the emergence of systematic linguistic structure.   
 <p style="text-align:right">with [Séan G. Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</p>
