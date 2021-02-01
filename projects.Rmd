@@ -17,7 +17,7 @@ h1 {
 
 **Ongoing**
 
-* Investigating the processing of questions with biases in English. [[**OSF project**]](https://osf.io/7a2jk/) 
+* Investigating the processing of questions with epistemic biases in English. [[**OSF project**]](https://osf.io/7a2jk/) 
 <p style="text-align:right">with [E Jamieson](https://ejamieson.com/)</p>
 
 * Prediction in the processing of English metaphoric expressions containing modal stance adjectives. [[**OSF project**]](https://osf.io/5v9xf/) 
