@@ -17,16 +17,16 @@ h1 {
 
 **Peer-reviewed talks**
 
-* **Macuch Silva, V.**, & Jamieson, E (2021, March). _Processing polar questions in context with varying epistemic biases in English_. 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia. [<a href="https://osf.io/cqgze/" target="_blank"><b>abstract</b></a>]
+* **Macuch Silva, V.**, & Jamieson, E (2021, March). _Processing polar questions in context with varying epistemic biases in English_. 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia. [<a href="https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_198.pdf" target="_blank"><b>abstract</b></a>]
 
-* **Macuch Silva, V.**, & Jamieson, E (2021, February). _Processing polar questions in context with varying epistemic biases in English_. Biased Questions: Experimental Results & Theoretical Modelling, Berlin. [<a href="https://osf.io/cqgze/" target="_blank"><b>abstract</b></a>]
+* **Macuch Silva, V.**, & Jamieson, E (2021, February). _Processing polar questions in context with varying epistemic biases in English_. Workshop on Biased Questions: Experimental Results & Theoretical Modelling, Berlin. [<a href="https://osf.io/cqgze/" target="_blank"><b>abstract</b></a>]
 
 * Roberts, F., **Macuch Silva, V.**, & Rohde, H. (2020, July [postponed to July 2021]). _Non-actual 'actual': Expectations for upcoming figurative language arise from cues about message truth_. 5th Usage-Based Linguistics Conference, Tel Aviv. [<a href="UBL-submission.pdf" target="_blank"><b>abstract</b></a>]
 
-* **Macuch Silva, V.**, Roberts, F., & Rohde, H. (2020, June [postponed to January 2021]). _Do truth-endorsing adjectives act as cues to non-literality in the processing of modified metaphors? A psycholinguistic investigation of English 'actual', 'literal', and 'real'_. TExMod2020: Theoretical and
+* **Macuch Silva, V.**, Roberts, F., & Rohde, H. (2020, June [postponed to January 2021]). _Do truth-endorsing adjectives act as cues to non-literality in the processing of modified metaphors? A psycholinguistic investigation of English 'actual', 'literal', and 'real'_. TExMod2020: Workshop on Theoretical and
 Experimental Approaches to Modification, Tübingen. [<a href="https://approachesmodificationhome.files.wordpress.com/2021/01/macuch-silva_roberts_rohde_texmod.pdf" target="_blank"><b>abstract</b></a>]
 
-* **Macuch Silva, V.**, & Franke, M. (2018, June). _Reading quantified expressions in context: Does pragmatic surprisal or strategic attention allocation predict self-paced reading times?_ The pragmatics of quantifiers: implicature and presupposition – experiment and theory, Berlin.
+* **Macuch Silva, V.**, & Franke, M. (2018, June). _Reading quantified expressions in context: Does pragmatic surprisal or strategic attention allocation predict self-paced reading times?_ Workshop on The pragmatics of quantifiers: implicature and presupposition – experiment and theory, Berlin.
 
 * **Macuch Silva, V.**, Holler, J., Özyürek, A., & Roberts, S. G. (2018). Modality-specific effects on language emergence - and why looking at interaction also matters. In H. Little & A. Micklos (Eds.), _The proceedings of the evolang xii modality matters workshop_, 16 April, 2018. [<a href="https://hlittle.com/MM/allpaperpdfs/EvoLangMM_paper3.pdf" target="_blank"><b>abstract</b></a>]
 
