@@ -16,7 +16,7 @@ h1 {
 }
 </style>
 
-<p class="aligncenter"><img src="images/profile2-removebg-preview.png" alt="Profile picture" align="middle" style="width:135px;height:190px;border:0.7px solid black;"></p>
+<p class="aligncenter"><img src="images/profile.png" alt="Profile picture" align="middle" style="width:145px;height:190px;border:0.7px solid black;"></p>
 
 I'm a doctoral researcher in the [Cognitive Modeling group at the Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/research_groups/cognitive_modeling/home.html), Osnabrück University, where I work on linguistic pragmatics drawing primarily on experimental methods. In my PhD, supervised by [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), I'm investigating the extent to which pragmatic language processing might be construed in terms of expectation-based probabilistic inferencing.
 
